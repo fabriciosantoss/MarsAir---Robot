@@ -1,0 +1,16 @@
+Criterio de aceite da viagem
+
+1 - teste validos com um ano ou mais
+saindo em julho, voltando em julho(próximo ano)
+saindo em julho, voltando em dezembro(dois anos a frente)
+saindo em julho, voltando em dezembro(dois anos a frente) - sem código promocional
+
+3 - testes com retorno inválido
+sem data de retorno
+saindo em julho, voltando em dezembro(mesmo ano) - menos de um ano
+
+
+Testes desconto
+FS0-SSA-000 - Código de 0%
+FS9-SSA-009 - código de 90%
+AF9-FJK-4112 - Código inválido
